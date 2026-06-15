@@ -2862,10 +2862,12 @@ section,
 
 .doctor-card img {
     display: block;
-    margin: 0 auto;
-    max-width: 300px;
-    height: auto;
+    width: 100%;
+    max-width: 350px;
+    height: 450px;
+    margin: 0 auto 20px auto;
     object-fit: cover;
     line-height: 1.8;
     text-align: justify;
+    border-radius: 10px;;
 }
