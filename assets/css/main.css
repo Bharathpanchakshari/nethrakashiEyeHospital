@@ -1252,6 +1252,41 @@ section,
   background: #f3268c;
 }
 
+.services .service-item.item-gold {
+  border-bottom: 3px solid #B8860B;
+}
+
+.services .service-item.item-gold .icon {
+  color: #B8860B;
+  background: rgba(184, 134, 11, 0.1);
+}
+
+.services .service-item.item-gold .read-more {
+  color: #B8860B;
+}
+
+.services .service-item.item-gold:hover {
+  background: #B8860B;
+}
+
+.services .service-item.item-green {
+  border-bottom: 3px solid #228B22; /* forest green border */
+}
+
+.services .service-item.item-green .icon {
+  color: #228B22; /* green icon */
+  background: rgba(34, 139, 34, 0.1); /* subtle green background */
+}
+
+.services .service-item.item-green .read-more {
+  color: #228B22; /* green link */
+}
+
+.services .service-item.item-green:hover {
+  background: #228B22; /* green background on hover */
+  color: #fff; /* switch text to white for contrast */
+}
+
 .services .service-item:hover h3,
 .services .service-item:hover p,
 .services .service-item:hover .read-more {
