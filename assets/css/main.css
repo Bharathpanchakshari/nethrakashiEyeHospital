@@ -2836,7 +2836,6 @@ section,
   color: color-mix(in srgb, var(--default-color), transparent 60%);
   font-size: 14px;
 }
-
 .whatsapp-float {
     position: fixed;
     width: 60px;
@@ -2855,7 +2854,6 @@ section,
     justify-content: center;
     text-decoration: none;
 }
-
 .whatsapp-float:hover {
     color: #fff;
     transform: scale(1.1);
