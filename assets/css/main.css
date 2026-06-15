@@ -2859,3 +2859,13 @@ section,
     transform: scale(1.1);
     transition: 0.3s;
 }
+
+.doctor-card img {
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    height: auto;
+    object-fit: cover;
+    line-height: 1.8;
+    text-align: justify;
+}
